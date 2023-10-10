@@ -1,5 +1,5 @@
 from tkinter import *
-
+# Karn len gay
 class UI(Tk):
     def __init__(self):
         super().__init__()
