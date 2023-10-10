@@ -1,5 +1,5 @@
 from tkinter import *
-jfdosajfodsfjsaopjop
+
 class UI(Tk):
     def __init__(self):
         super().__init__()
